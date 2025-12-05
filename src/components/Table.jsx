@@ -14,6 +14,7 @@ export default function Table() {
 
   const todayDate = getTodayDate();
 
+  // Gecici test icin yazilmis datalar
   const datas = testData;
 
   return (
